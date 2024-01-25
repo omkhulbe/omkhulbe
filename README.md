@@ -57,7 +57,10 @@
 <a href="https://www.buymeacoffee.com/omkhulbe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 
+---
 
+### Connect :
+<br>
 <div id="header" align="center">
   <img src="./head.gif" width="100"/>
 </div>
