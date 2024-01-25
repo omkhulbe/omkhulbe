@@ -52,14 +52,14 @@
 
 ---
 
-### Support :
+### :raised_hands: Support :
 <p>
 <a href="https://www.buymeacoffee.com/omkhulbe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 
 ---
 
-### Connect :
+### :handshake: Connect :
 <br>
 <div id="header" align="center">
   <img src="./head.gif" width="100"/>
@@ -77,3 +77,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=omkhulbe&style=flat-square&color=blue" alt="" />  
 </div>
+
+---
+
+### :heart: Illustration Credits :
+- Illustration by <a href="https://icons8.com/illustrations/author/kP9rc8JiBCcz">Irene M. Ray</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+- Illustration by <a href="https://icons8.com/illustrations/author/HxMFjfKZdNq2">Rosina Gavrilash</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
