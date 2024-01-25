@@ -1,3 +1,26 @@
+<h1>
+  Hey there!, I'm Om Khulbe
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div align="center">
+  <img src="./main.gif" width="300"/>
+</div>
+
+---
+
+### :man_technologist: About :
+- :telescope: I’m a student currently enrolled at Institute of Forensic Science, Mumbai.
+
+- :seedling: Exploring Backend Technologies and Python Librarires.
+
+- :zap: In my free time, I work on my personal projects and play games.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omkhulbe/)
+
+- :zap: Funt Fact: My coding skills are so good, they're practically cheat codes (but shhh:shushing_face:, don't tell Rockstar).
+
+
 <div id="header" align="center">
   <img src="./head.gif" width="100"/>
 </div>
@@ -14,19 +37,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=omkhulbe&style=flat-square&color=blue" alt="" />  
 </div>
-
-<h1>
-  Hey there!, I'm Om Khulbe
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<div align="center">
-  <img src="./main.gif" width="300"/>
-</div>
-
----
-
-### :man_technologist: About :
 <!--
 **omkhulbe/omkhulbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
