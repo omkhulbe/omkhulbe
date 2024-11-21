@@ -10,7 +10,7 @@
 ---
 
 ### :man_technologist: About :
-- :telescope: I’m a student currently enrolled at Institute of Forensic Science, Mumbai.
+- :telescope: I’m a student currently enrolled at National College of Ireland.
 
 - :seedling: Exploring Backend Technologies and Python Librarires.
 
